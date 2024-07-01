@@ -66,6 +66,7 @@ Project www.saucedemo.com
 
 Md. Abu Talha  
 [GitHub Profile](https://github.com/md-abutalha)
-[E-Mail](abutalhabd88@gmail.com)
+
+E-Mail: abutalhabd88@gmail.com
 ---
 
